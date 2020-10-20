@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ProJava.iml" filepath="$PROJECT_DIR$/ProJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RenameReferenceList/RenameReferenceList.iml" filepath="$PROJECT_DIR$/RenameReferenceList/RenameReferenceList.iml" />
     </modules>
   </component>
 </project>
